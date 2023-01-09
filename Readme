@@ -3,14 +3,14 @@ This system searchs the database for books based on title, genre or author.
 It can also checkout, return and reserve books.
 The output of the GUI is well fitted for my device
 Things to Look out for:
-- Search is Dynamic
-- Testing shows important functionality 
-- Checkout/Return dynamically changes the items in the table is successful in checking out or returning
-- Return checks if book is valid adn does other checks such as if the book has been loaned to someone
-- Checkout does not allow chain reservation or the same person to checkout the same book
-- Checkout also does not allow the same person to make a reservation again
-- The same person can checkout mulitple books by typing the book id in the book id field leaving the member id the same if the book is available
-  and not reserved
+  - Search is Dynamic
+  - Testing shows important functionality 
+  - Checkout/Return dynamically changes the items in the table is successful in checking out or returning
+  - Return checks if book is valid adn does other checks such as if the book has been loaned to someone
+  - Checkout does not allow chain reservation or the same person to checkout the same book
+  - Checkout also does not allow the same person to make a reservation again
+  - The same person can checkout mulitple books by typing the book id in the book id field leaving the member id the same if the book is available
+    and not reserved
 
 Examples Of Functionality:
 Search:
@@ -40,7 +40,7 @@ Transaction_ID BID Reservation_Date Checkout_Date Return_Date Member_ID
 200	50	02/04/2014	11/11/2022	11/11/2022	3004
 
 Further work:
-- Improving the insertion of data as there is a slight flaw for loan_availability which does not disrupt functionality of the program
-- Images for books and for application, started by creating table in db but did not pursue further
-- Improving the reservation to allow a chain reservation system but also to allow for reservations to expire
-- Dot code for showing schema, Implementation works in environment provided however not on my device
+  - Improving the insertion of data as there is a slight flaw for loan_availability which does not disrupt functionality of the program
+  - Images for books and for application, started by creating table in db but did not pursue further
+  - Improving the reservation to allow a chain reservation system but also to allow for reservations to expire
+  - Dot code for showing schema, Implementation works in environment provided however not on my device
