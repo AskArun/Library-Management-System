@@ -1,0 +1,51 @@
+ID,Genre,Title,Author,Purchase Price £,Purchase Date
+1,Dystopian,The Hunger Games,Suzanne Collins,10,10/01/2019
+2,Fantasy,Harry Potter and the Philosopher's Stone,J.K. Rowling,11,12/12/2012
+3,Fantasy,Harry Potter and the Philosopher's Stone,J.K. Rowling,11,01/01/2014
+4,Fantasy,Harry Potter and the Philosopher's Stone,J.K. Rowling,11,01/01/2014
+5,Fantasy,Harry Potter and the Philosopher's Stone,J.K. Rowling,11,12/12/2012
+6,Fantasy,Harry Potter and the Philosopher's Stone,J.K. Rowling,11,12/12/2012
+7,Fantasy,Harry Potter and the Philosopher's Stone,J.K. Rowling,11,26/09/2020
+8,Fantasy,Harry Potter and the Philosopher's Stone,J.K. Rowling,11,01/01/2014
+9,Romance,Twilight,Stephenie Meyer,20,12/12/2012
+10,Romance,Twilight,Stephenie Meyer,20,01/01/2014
+11,Romance,Twilight,Stephenie Meyer,20,26/09/2020
+12,Romance,Twilight,Stephenie Meyer,20,26/09/2020
+13,Romance,Twilight,Stephenie Meyer,20,12/12/2012
+14,Novel,To Kill a Mockingbird,Harper Lee,35,21/04/2016
+15,Novel,To Kill a Mockingbird,Harper Lee,35,21/04/2016
+16,Novel,The Great Gatsby,F. Scott Fitzgerald,5,28/08/2017
+17,Novel,The Great Gatsby,F. Scott Fitzgerald,5,28/08/2017
+18,Novel,The Great Gatsby,F. Scott Fitzgerald,5,01/01/2014
+19,Fiction,The Fault in Our Stars,John Green,12,26/09/2020
+20,Fiction,The Fault in Our Stars,John Green,12,26/09/2020
+21,Fiction,The Fault in Our Stars,John Green,12,26/09/2020
+22,Fiction,The Fault in Our Stars,John Green,12,29/09/2020
+23,Fiction,The Hobbit or There and Back Again,J.R.R. Tolkien,8,19/10/2014
+24,Fiction,The Hobbit or There and Back Again,J.R.R. Tolkien,8,19/10/2014
+25,Novel,The Catcher in the Rye,J.D. Salinger,16,09/10/2014
+26,Novel,The Catcher in the Rye,J.D. Salinger,16,09/10/2014
+27,Novel,The Catcher in the Rye,J.D. Salinger,16,09/10/2014
+28,Novel,The Catcher in the Rye,J.D. Salinger,16,09/10/2014
+29,Thriller,Angels & Demons ,Dan Brown,7,09/05/2014
+30,Thriller,Angels & Demons ,Dan Brown,7,09/05/2014
+31,Thriller,Angels & Demons ,Dan Brown,7,19/10/2014
+32,Thriller,Angels & Demons ,Dan Brown,7,01/01/2014
+33,Thriller,Angels & Demons ,Dan Brown,7,09/05/2014
+34,Fiction,Pride and Prejudice,Jane Austen,19,28/08/2017
+35,Fiction,The Kite Runner ,Khaled Hosseini,5,12/12/2012
+36,Fiction,The Kite Runner ,Khaled Hosseini,5,12/12/2012
+37,Fiction,The Kite Runner ,Khaled Hosseini,5,19/10/2014
+38,Fiction,The Kite Runner ,Khaled Hosseini,5,12/12/2012
+39,Sci-Fi,Divergent,Veronica Roth,14,01/01/2014
+40,Sci-Fi,Divergent,Veronica Roth,14,01/01/2014
+41,Sci-Fi,Divergent,Veronica Roth,14,01/01/2014
+42,Sci-Fi,Divergent,Veronica Roth,14,01/01/2014
+43,Sci-Fi,Nineteen Eighty-Four,George Orwell,9,19/10/2014
+44,Sci-Fi,Nineteen Eighty-Four,George Orwell,9,19/10/2014
+45,Political,Animal Farm: A Fairy Story,George Orwell,12,09/05/2014
+46,Political,Animal Farm: A Fairy Story,George Orwell,12,09/05/2014
+47,Political,Animal Farm: A Fairy Story,George Orwell,12,09/05/2014
+48,Political,Animal Farm: A Fairy Story,George Orwell,12,19/10/2014
+49,Political,Animal Farm: A Fairy Story,George Orwell,12,19/10/2014
+50,Political,Animal Farm: A Fairy Story,George Orwell,12,09/05/2014
